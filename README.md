@@ -32,4 +32,3 @@ Usage
 
 3. Use the feedback to improve password safety.
 
-4. This project is great for cybersecurity beginners and web developers looking to build practical security tools. 🚀
